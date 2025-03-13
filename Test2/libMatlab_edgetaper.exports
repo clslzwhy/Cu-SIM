@@ -1,0 +1,7 @@
+libMatlab_edgetaperInitialize
+libMatlab_edgetaperInitializeWithHandlers
+libMatlab_edgetaperTerminate
+libMatlab_edgetaperPrintStackTrace
+mlxMat_edgetaper
+mlfMat_edgetaper
+
