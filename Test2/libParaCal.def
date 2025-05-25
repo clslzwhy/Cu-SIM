@@ -1,9 +1,0 @@
-LIBRARY libParaCal
-EXPORTS
-libParaCalInitialize
-libParaCalInitializeWithHandlers
-libParaCalTerminate
-libParaCalPrintStackTrace
-mlxParaCal
-mlfParaCal
-
